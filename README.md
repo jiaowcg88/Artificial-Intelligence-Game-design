@@ -1,3 +1,5 @@
+Instructions of how to run this program!!
+
 1.	How to compile and run this program:
 This project only has one java document named TicTacToe.java. You can compile this file using Java IDE, such as Eclipse. 
 1). Once start to click the run the program. 
